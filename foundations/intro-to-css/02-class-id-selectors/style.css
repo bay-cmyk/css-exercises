@@ -3,17 +3,17 @@
     font-family: Arial, Verdana, 'DejaVu Sans', sans-serif;
 }
 
+.font-size {
+    font-size: 24px
+}
+
 #two {
     color: #0000ff;
     font-size: 36px;
 }
 
-.odd.three {
-    font-size: 24px;
-}
 
 #four {
     background-color: hsl(120, 81%, 71%);
-    font-size: 24px;
     font-weight: bold;
 }

@@ -26,6 +26,8 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  padding: 16px;
+  flex-shrink: 0;
 }
 
 .card {
@@ -36,4 +38,5 @@ body {
 
 .container {
   flex: 1;
+  display: flex;
 }

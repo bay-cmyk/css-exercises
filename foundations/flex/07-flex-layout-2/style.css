@@ -15,9 +15,11 @@ body {
 }
 
 .footer {
-  height: 72px;
   background: #eee;
   color: darkmagenta;
+  text-align: center;
+  font-size: 10px;
+  padding: 10px;
 }
 
 .sidebar {

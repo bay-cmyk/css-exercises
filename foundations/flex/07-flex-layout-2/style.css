@@ -40,3 +40,8 @@ body {
   flex: 1;
   display: flex;
 }
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}

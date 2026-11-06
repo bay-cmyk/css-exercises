@@ -62,3 +62,7 @@ a {
   text-decoration: none;
   color: white;
 }
+
+li {
+padding: 10px;
+}
